@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rename4ik
+- 👀 I’m interested in: Front-end development, UX design, accessibility, performance optimization, emerging web technologies
+- 🌱 I’m currently learning: Next.js, Tailwind CSS, React Native
+- 💞 I’m looking to collaborate on: Open-source front-end libraries, personal projects, hackathons
+- 📫 How to reach me: VK, telegram
+- 😄 Pronouns: He/him
+- ⚡️ Fun fact: I'm also a musician and I play guitar with friends.
